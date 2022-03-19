@@ -1,16 +1,6 @@
 {
   "tests": [
     {
-      "name": "Test js 1",
-      "setup": "npm install",
-      "run": "npm test",
-      "input": "",
-      "output": "",
-      "comparison": "included",
-      "timeout": 5,
-      "points": 100
-    },
-    {
       "name": "test js 1 cmd",
       "setup": "npm install",
       "run": "npm test",
